@@ -1,0 +1,26 @@
+body {
+    background-image: url('zacapafondouno.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.titulo {
+    color: darkolivegreen;
+    background-color: mediumseagreen;
+    font-size: 30px; 
+
+}
+
+.texto {
+    background-color: mediumseagreen;
+    font-size: 20px; 
+
+}
+
+.links a {
+    display: block; 
+    font-size: 20px; 
+    text-decoration: none;
+    color: greenyellow;
+}

@@ -1,0 +1,30 @@
+body {
+    background-image: url('Img/zacapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabarrilete.gif');
+    background-size: cover;
+    color: white;
+    font-size: 25px;
+}
+
+.titulo {
+    color: white; 
+    background-color: crimson;
+    text-align: center;
+    border: 10px dotted white;
+}
+
+.texto {
+    text-align: center;
+    color: white;
+}
+
+.imagen {
+    display: block;
+    margin: 10px auto;
+    width: 30%; }
+
+.boton {
+    display: block;
+    text-align: center;
+    color: whitesmoke; 
+
+}

@@ -1,0 +1,38 @@
+body {
+    background-image: url('Img/cocinatipicafondo.jpeg');
+    background-size: cover;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+
+.texto {
+    text-align: center;
+    color: white;
+}
+
+.titulo {
+    color: white; 
+    background-color: crimson;
+    text-align: center;
+    border: 10px double white;
+}
+
+.imagen {
+    display: block;
+    margin: 10px auto;
+    width: 30%; }
+
+.boton {
+    display: block;
+    text-align: center;
+    color: whitesmoke; 
+
+}
+.caja {
+    float: left;
+}
+
+.rosa {
+    background-color: pink;
+}

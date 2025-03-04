@@ -1,0 +1,32 @@
+body {
+    background-image: url('Img/imgfondocapa.jpeg');
+    background-size: cover;
+
+}
+
+.titulo {
+    color: mediumaquamarine;
+    background-color: hsl(350, 60%, 70%);
+    text-align: center;
+    border: 10px double blueviolet
+
+
+}
+.texto {
+    text-align: center;
+    border: 2px solid white;
+    color: blue;
+}
+
+.imagen {
+    display: block;
+     margin: 10px auto;
+     width: 20%;
+
+}
+.boton {
+    display: block;
+    color: whitesmoke; 
+    text-align: center; 
+    
+}
